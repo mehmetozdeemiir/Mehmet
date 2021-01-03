@@ -1,1 +1,1 @@
-# Mehmet
+![Mehmet's Githubs Stats](https://github-readme-stats.vercel.app/api?username=mehmetozdeemiir&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetozdeemiir&layout=compact)](https://github.com/mehmetozdeemiir/github-readme-stats)
